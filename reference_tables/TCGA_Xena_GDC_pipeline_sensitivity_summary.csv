@@ -1,0 +1,12 @@
+Metric,Value
+Xena_LIHC_n,371.0
+GDC_LIHC_n,371.0
+Matched_sample_n,371.0
+Xena_only_n,0.0
+GDC_only_n,0.0
+Xena_original_RBM3_MPC_rho,0.3607502
+GDC_original_RBM3_MPC_rho,0.6363903
+Xena_matched_rescored_RBM3_MPC_rho,0.3607502
+GDC_matched_rescored_RBM3_MPC_rho,0.6363903
+Cross_pipeline_RBM3_rho,0.8863313
+Cross_pipeline_MPC_score_rho,0.6550474
